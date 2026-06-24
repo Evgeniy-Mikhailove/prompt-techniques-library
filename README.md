@@ -6,6 +6,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Techniques](https://img.shields.io/badge/Techniques-6_Production_Patterns-green.svg)](#technique-selection-matrix)
+[![GitHub stars](https://img.shields.io/github/stars/Evgeniy-Mikhailove/prompt-techniques-library?style=social)](https://github.com/Evgeniy-Mikhailove/prompt-techniques-library/stargazers)
 
 ---
 
