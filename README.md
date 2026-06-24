@@ -1,5 +1,7 @@
 # Prompt Techniques Library
 
+![Prompt Techniques Library](assets/hero.png)
+
 **A decision matrix for choosing the right prompting technique - not another "how to write prompts" guide.**
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
